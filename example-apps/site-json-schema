@@ -1,0 +1,42 @@
+{
+  "_comment": "Sample schema for json files used to build site",
+  "metadata": {
+    "name": "name of app",
+    "version": "version # of app",
+    "deployYaml": "name of yaml file used for deployment",
+    "annotations": {
+      "_comment": "all info used for creating card on main page",
+      "repository": "Link to github repository of app source code",
+      "provider": "name of individual or company that provides the app",
+      "categories": [
+        "categories",
+        "of",
+        "app"
+      ],
+      "description": "short description of app used on card",
+      "tags": [
+        "list",
+        "of",
+        "tags",
+        "used",
+        "while",
+        "searching"
+      ]
+    }
+  },
+  "spec": {
+    "_comment": "all info used to build app details page",
+    "displayName": "name of app to display",
+    "long-description": "long markdown description, for app details page",
+    "maintainer": {
+      "name": "name of person or company responsible for maintaining the app",
+      "email": "email of person responsible for mainintaining the app"
+    },
+    "links": [
+      {
+        "name": "title of link",
+        "url": "url of link"
+      }
+    ]
+  }
+}
