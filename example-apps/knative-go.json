@@ -1,0 +1,45 @@
+
+{
+  "_comment": "Sample schema for json files used to build site",
+  "metadata": {
+    "name": "serverless-example-go",
+    "version": "1.0",
+    "deployYaml": "service.yaml",
+    "annotations": {
+      "_comment": "all info used for creating card on main page",
+      "repository": "https://github.com/knative-scout/serverless-example-go",
+      "provider": "Knative-Scout",
+      "icon":{
+        "base64data": "data of image",
+        "type": "type of data, e.g. image/png"
+      },
+      "categories": [
+        "api",
+        "http"
+      ],
+      "description": "short description of app used on card",
+      "tags": [
+        "go",
+        "knative",
+        "serverless",
+        "http",
+        "hello user"
+      ]
+    }
+  },
+  "spec": {
+    "_comment": "all info used to build app details page",
+    "displayName": "knative-go",
+    "long-description": "It is a introductory go-lang app which has user specific endpoints with a simple greeting on the page ",
+    "maintainer": {
+      "name": "Vaishnavi Hire",
+      "email": "vhire@redhat.com"
+    },
+    "links": [
+      {
+        "name": "title of link",
+        "url": "url of link"
+      }
+    ]
+  }
+}
