@@ -23,8 +23,8 @@ contains the following files:
   - `tagline` (String): Short description of serverless application
   - `tags` (List[String]): List of tags which are relevant to the application
   - `categories` (List[String]): List of categories which are relevant to
-  - `author` (String)
-  - `maintainer` (String)
+  - `author` (String): In format `NAME <EMAIL>`
+  - `maintainer` (String): Same format as `author`
 - `README.md`: Holds longer description of serverless application
 - `logo.png`: Logo for serverless application
 - `screenshots/`: (Optional) Directory which contains any screenshots
