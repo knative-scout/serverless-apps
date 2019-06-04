@@ -20,6 +20,7 @@ contains the following files:
 
 - `manifest.yaml`: File which holds metadata about serverless application. Must 
   contain the following keys:
+  - `name` (String): Name of app
   - `tagline` (String): Short description of serverless application
   - `tags` (List[String]): List of tags which are relevant to the application
   - `categories` (List[String]): List of categories which are relevant to
