@@ -28,6 +28,7 @@ contains the following files:
 - `README.md`: Holds longer description of serverless application
 - `logo.png`: Logo for serverless application
 - `screenshots/`: (Optional) Directory which contains any screenshots
+- `deployment/`: Directory which holds Kubernetes resource files
 
 A member of the team will review your pull request and add your application in 
 no time.
