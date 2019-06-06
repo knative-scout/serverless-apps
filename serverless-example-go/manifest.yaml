@@ -1,13 +1,11 @@
-tagline: Example Go serverless application
+name: Serverless Example Go 
+tagline: Sample  Go serverless application
 tags:
-  -go
-  -knative
-  -serverless
-  -http
-  -hello user
+  -golang
+  -hello-world
 categories:
-  -Example api
-  -http
+  -example
+  -golang
 author: Vaishnavi Hire <vhire@redhat.com>
 maintainer: Vaishnavi Hire <vhire@redhat.com>
 
