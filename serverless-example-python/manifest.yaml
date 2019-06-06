@@ -1,12 +1,12 @@
 name: Serverless Example Python
 tagline: Sample Hello-World python serverless application
 tags:
-  - Python
-  - Flask
-  - API
+  - python
+  - flask
+  - api
 categories:
-  - Examples
-  - Hello-World
+  - examples
+  - hello-world
 author: Pratik Mahajan <p@phy.cx>
 maintainer: Pratik Mahajan <p@phy.cx>
 

@@ -1,9 +1,9 @@
 name: Serverless Example NodeJS
 tagline: Example NodeJS serverless application
 tags:
-  - NodeJS
-  - API
+  - nodejs
+  - api
 categories:
-  - Examples
+  - examples
 author: Noah Huppert <contact@noahh.io>
 maintainer: Noah Huppert <contact@noahh.io>
