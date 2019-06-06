@@ -1,0 +1,13 @@
+tagline: Example Go serverless application
+tags:
+  -go
+  -knative
+  -serverless
+  -http
+  -hello user
+categories:
+  -Example api
+  -http
+author: Vaishnavi Hire <vhire@redhat.com>
+maintainer: Vaishnavi Hire <vhire@redhat.com>
+
