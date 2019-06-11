@@ -1,11 +1,11 @@
 name: Serverless Example Go 
 tagline: Sample  Go serverless application
 tags:
-  -golang
-  -hello-world
+  - golang
+  - hello-world
 categories:
-  -example
-  -golang
+  - example
+  - golang
 author: Vaishnavi Hire <vhire@redhat.com>
 maintainer: Vaishnavi Hire <vhire@redhat.com>
 
