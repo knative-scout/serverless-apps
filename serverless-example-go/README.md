@@ -1,2 +1,2 @@
 # serverless-example-go
-Example of serverless application in Go
+Example of serverless application in Go.
