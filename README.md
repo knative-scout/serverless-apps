@@ -23,7 +23,8 @@ contains the following files:
   - `name` (String): Name of app
   - `tagline` (String): Short description of serverless application
   - `tags` (List[String]): List of tags which are relevant to the application
-  - `categories` (List[String]): List of categories which are relevant to
+  - `categories` (List[String]): List of categories to sort the app into. 
+       Select from the following:\[Analytics, API, Automation, Entertainment, Internet of Things, Utilities, Virtual Assistant, Other\]
   - `author` (String): In format `NAME <EMAIL>`
   - `maintainer` (String): Same format as `author`
 - `README.md`: Holds longer description of serverless application
