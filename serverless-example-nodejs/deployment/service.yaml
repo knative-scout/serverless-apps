@@ -16,8 +16,20 @@ spec:
           env:
             - name: APP_PORT
               value: "3000"
+            - name: APP_FOOBAR
+              valueFrom:
+                configMapKeyRef:
+                  name: config
+                  key: foobar
           ports:
             - containerPort: 3000
           readinessProbe:
             httpGet:
               path: /health
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config
+data:
+  foobar: "I have this value by default"
