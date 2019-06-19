@@ -1,4 +1,4 @@
-# Serverless Aps
+# Serverless Apps
 Open repository where serverless applications can be submitted to Knative Scout.
 
 # Table Of Contents
@@ -29,7 +29,11 @@ contains the following files:
 - `README.md`: Holds longer description of serverless application
 - `logo.png`: Logo for serverless application
 - `screenshots/`: (Optional) Directory which contains any screenshots
-- `deployment/`: Directory which holds Kubernetes resource files
+- `deployment/`: Directory which holds Kubernetes resource files. Files must be
+  either `.json` or `.yaml` and can only contain the following resources:
+    - `serving.knative.dev/v1alpha1.Service`
+	- `v1.ConfigMap`
+	- `v1.Secret`
 
 A member of the team will review your pull request and add your application in 
 no time.
