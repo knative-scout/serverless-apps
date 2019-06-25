@@ -26,9 +26,9 @@ contains the following files:
   - `categories` (List[String]): List of categories to sort the app into. Can 
 	only include the following categories:
 	- Analytics
-	- API
 	- Automation
 	- Entertainment
+	- Hello-World
 	- Internet of Things
 	- Utilities
 	- Virtual Assistant
