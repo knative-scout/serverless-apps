@@ -4,7 +4,6 @@ tags:
   - golang
   - hello-world
 categories:
-  - example
-  - golang
+  - Hello-World
 author: Vaishnavi Hire <vhire@redhat.com>
 maintainer: Vaishnavi Hire <vhire@redhat.com>
