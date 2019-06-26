@@ -6,6 +6,7 @@ tags:
   - API
 categories:
   - Hello-World
-author: Pratik Mahajan <p@phy.cx>
-maintainer: Pratik Mahajan <p@phy.cx>
+author:
+  name: Pratik Mahajan
+  email: p@phy.cx
 

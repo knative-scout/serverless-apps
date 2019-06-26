@@ -4,6 +4,7 @@ tags:
   - NodeJS
   - API
 categories:
-  - Hello-World
-author: Noah Huppert <contact@noahh.io>
-maintainer: Noah Huppert <contact@noahh.io>
+  - Examples
+author:
+  name: Noah Huppert
+  email: contact@noahh.io
