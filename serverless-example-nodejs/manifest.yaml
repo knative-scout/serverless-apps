@@ -5,5 +5,6 @@ tags:
   - API
 categories:
   - Examples
-author: Noah Huppert <contact@noahh.io>
-maintainer: Noah Huppert <contact@noahh.io>
+author:
+  name: Noah Huppert
+  email: contact@noahh.io

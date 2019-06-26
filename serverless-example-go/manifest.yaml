@@ -6,5 +6,7 @@ tags:
 categories:
   - example
   - golang
-author: Vaishnavi Hire <vhire@redhat.com>
-maintainer: Vaishnavi Hire <vhire@redhat.com>
+author:
+  name: Vaishnavi Hire
+  email: vhire@redhat.com
+
