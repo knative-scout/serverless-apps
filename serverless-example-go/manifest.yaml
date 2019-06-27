@@ -1,4 +1,4 @@
-_name: Serverless Example Go 
+name: Serverless Example Go 
 tagline: Sample  Go serverless application
 tags:
   - golang
