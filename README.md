@@ -33,16 +33,13 @@ contains the following files:
 	- Utilities
 	- Virtual Assistant
 	- Other
-  - `author` (String): In format `NAME <EMAIL>`
-  - `maintainer` (String): Same format as `author`
+  - `author` (Object): Author information, has keys:
+	- `name` (String)
+	- `email` (String)
 - `README.md`: Holds longer description of serverless application
 - `logo.png`: Logo for serverless application
 - `screenshots/`: (Optional) Directory which contains any screenshots
-- `deployment/`: Directory which holds Kubernetes resource files. Files must be
-  either `.json` or `.yaml` and can only contain the following resources:
-    - `serving.knative.dev/v1alpha1.Service`
-	- `v1.ConfigMap`
-	- `v1.Secret`
+- `deployment/`: Directory which holds YAML Kubernetes resource files
 
 A member of the team will review your pull request and add your application in 
 no time.
