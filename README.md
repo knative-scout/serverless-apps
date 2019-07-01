@@ -24,15 +24,15 @@ contains the following files:
   - `tagline` (String): Short description of serverless application
   - `tags` (List[String]): List of tags which are relevant to the application
   - `categories` (List[String]): List of categories to sort the app into. Can 
-	only include the following categories:
-	- Analytics
-	- Automation
-	- Entertainment
-	- Hello-World
-	- Internet of Things
-	- Utilities
-	- Virtual Assistant
-	- Other
+	 only include the following values:
+	 - `analytics`
+	 - `automation`
+	 - `entertainment`
+	 - `hello world`
+	 - `internet of things`
+	 - `utilities`
+	 - `virtual assistant`
+	 - `other`
   - `author` (Object): Author information, has keys:
 	- `name` (String)
 	- `email` (String)
