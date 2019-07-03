@@ -1,9 +1,0 @@
-name: Serverless Example Go 
-tagline: Sample  Go serverless application
-tags:
-  - golang
-categories:
-  - hello world
-author:
-  name: Vaishnavi Hire
-  email: vhire@redhat.com
