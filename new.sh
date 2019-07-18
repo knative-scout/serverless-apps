@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # Configuration
-prog_dir=$(realpath $(dirname "$0"))
-repo_dir=$(realpath "$prog_dir/..")
+repo_dir=$(realpath $(dirname "$0"))
 
 # Helpers
 function die() {
