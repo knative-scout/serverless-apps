@@ -1,0 +1,11 @@
+name: Knative Secrets Example
+tagline: A small Knative example using Kubernetes secrets
+tags:
+  - 'go'
+  - 'secrets'
+  - 'knative-example'
+categories:
+  - 'hello world'
+author:
+  name: Knative Team
+  email: knative-admins@googlegroups.com
