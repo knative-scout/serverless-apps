@@ -1,0 +1,12 @@
+name: Knative Autoscaling Example
+tagline: A demonstration of the autoscaling capabilities of Knative.
+tags:
+  - 'go'
+  - 'knative-example'
+  - 'autoscale'
+categories:
+  - 'hello world'
+  - 'automation'
+author:
+  name: Knative Team
+  email: knative-admins@googlegroups.com
