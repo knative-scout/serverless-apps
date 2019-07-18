@@ -152,8 +152,8 @@ fi
 bold "You will now be asked to answer a few questions about your app:"
 
 manifest_categories_choices=("analytics"
-			     "automtion"
-			     "antertainment"
+			     "automation"
+			     "entertainment"
 			     "hello world"
 			     "internet of things"
 			     "utilities"
