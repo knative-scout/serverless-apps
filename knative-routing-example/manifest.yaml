@@ -1,0 +1,11 @@
+name: Knative Routing Example
+tagline: An example of mapping multiple Knative services to different paths under a single domain name using the Istio VirtualService concept.
+tags:
+  - 'go'
+  - 'routing'
+  - 'knative-example'
+categories:
+  - 'hello world'
+author:
+  name: Knative Team
+  email: knative-admins@googlegroups.com
