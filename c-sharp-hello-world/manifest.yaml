@@ -1,0 +1,7 @@
+name: C Sharp Hello World
+tagline: A simple web app written in C# using .NET Core 2.2
+categories:
+  - hello world
+author:
+  name: Knative Team
+  email: knative-admins@googlegroups.com
