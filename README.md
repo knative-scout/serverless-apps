@@ -17,12 +17,12 @@ Submit an application to Knative Scout by creating a pull request.
 
 The pull request should include a folder with your app's name.
 
-The `contribute/new.sh` script will create this folder's basic structure.
+The `new.sh` script will create this folder's basic structure.
 
 Run the script by providing your new app's name as an argument:
 
 ```
-% ./contribute/new.sh "My Awesome App"
+% ./new.sh "My Awesome App"
 ```
 
 The script will ask you a few questions about your app.  
@@ -38,7 +38,7 @@ It is up to you to create the rest of the files:
 A member of the team will review your pull request and add your application in 
 no time.
 
-The `contribute/new.sh` script creates a `manifest.yaml` file. This file must 
+The `new.sh` script creates a `manifest.yaml` file. This file must 
 follow the schema:
 
 - `name` (String): Name of app
