@@ -1,7 +1,10 @@
 name: C Sharp Hello World
 tagline: A simple web app written in C# using .NET Core 2.2
+tags:
+  - 'c#'
+  - 'knative-example'
 categories:
-  - hello world
+  - 'hello world'
 author:
   name: Knative Team
   email: knative-admins@googlegroups.com
