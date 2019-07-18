@@ -1,0 +1,11 @@
+name: gRPC Example
+tagline: A simple gRPC server.
+tags:
+  - 'go'
+  - 'grpc'
+  - 'knative-example'
+categories:
+  - 'hello world'
+author:
+  name: Knative Team
+  email: knative-admins@googlegroups.com
