@@ -1,0 +1,12 @@
+name: GitHub Webhook Example
+tagline: A simple webhook handler that demonstrates interacting with Github.
+tags:
+  - 'go'
+  - 'github'
+  - 'knative-example'
+categories:
+  - 'automation'
+  - 'hello world'
+author:
+  name: Knative Team
+  email: knative-admins@googlegroups.com
