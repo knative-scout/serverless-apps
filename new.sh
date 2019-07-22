@@ -159,7 +159,7 @@ manifest_categories_choices=("analytics"
 			     "virtual assistant"
 			     "other")
 
-
+prompt "Source URL - What is a URL you would like to link users back to when viewing your app?" manifest_source_url
 prompt "Tagline - What are a few words which describe your app?" manifest_tagline
 prompt_list "Tags - What are a few keywords that fit your app?"
 manifest_tags=("${__items[@]}")
@@ -186,6 +186,7 @@ echo "Writing this manifest.yaml for your new app:"
 
 tee "$app_dir/manifest.yaml" <<EOF
 name: $name
+source_url: $manifest_source_url
 tagline: $manifest_tagline
 tags:
 $(as_yaml_list 2 "${manifest_tags[@]}")
