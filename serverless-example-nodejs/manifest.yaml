@@ -1,4 +1,5 @@
 name: Serverless Example NodeJS
+homepage_url: https://github.com/kscout/serverless-example-nodejs
 tagline: Example NodeJS serverless application
 tags:
   - NodeJS

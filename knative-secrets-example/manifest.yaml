@@ -1,4 +1,5 @@
 name: Knative Secrets Example
+homepage_url: https://github.com/knative/docs/blob/master/docs/serving/samples/secrets-go/README.md
 tagline: A small Knative example using Kubernetes secrets
 tags:
   - 'go'
