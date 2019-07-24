@@ -42,6 +42,7 @@ The `new.sh` script creates a `manifest.yaml` file. This file must
 follow the schema:
 
 - `name` (String): Name of app
+- `homepageUrl` (String): URL to app's homepage
 - `tagline` (String): Short description of serverless application
 - `tags` (List[String]): List of tags which are relevant to the application
 - `categories` (List[String]): List of categories to sort the app into. Can 
