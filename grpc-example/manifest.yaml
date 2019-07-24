@@ -1,5 +1,5 @@
 name: gRPC Example
-homepage_url: 'https://github.com/knative/docs/blob/master/docs/serving/samples/grpc-ping-go/README.md'
+homepageUrl: 'https://github.com/knative/docs/blob/master/docs/serving/samples/grpc-ping-go/README.md'
 tagline: A simple gRPC server.
 tags:
   - 'go'

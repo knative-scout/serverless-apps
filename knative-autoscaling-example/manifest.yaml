@@ -1,5 +1,5 @@
 name: Knative Autoscaling Example
-homepage_url: 'https://github.com/knative/docs/blob/master/docs/serving/samples/autoscale-go/README.md'
+homepageUrl: 'https://github.com/knative/docs/blob/master/docs/serving/samples/autoscale-go/README.md'
 tagline: A demonstration of the autoscaling capabilities of Knative.
 tags:
   - 'go'
