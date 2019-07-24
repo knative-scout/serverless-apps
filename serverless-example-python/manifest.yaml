@@ -1,5 +1,5 @@
 name: Serverless Example Python
-homepage_url: https://github.com/kscout/serverless-example-py
+homepageUrl: https://github.com/kscout/serverless-example-py
 tagline: Sample Hello-World python serverless application
 tags:
   - Python
