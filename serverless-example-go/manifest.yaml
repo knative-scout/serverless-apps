@@ -1,5 +1,5 @@
 name: Serverless Example Go
-homepage_url: https://github.com/kscout/serverless-example-go
+homepage_url: 'https://github.com/kscout/serverless-example-go'
 tagline: Sample  Go serverless application
 tags:
   - golang
