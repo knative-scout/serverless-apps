@@ -1,5 +1,5 @@
 name: GitHub Webhook Example
-homepageUrl: 'https://github.com/knative/docs/blob/master/docs/serving/samples/gitwebhook-go/README.md'
+homepageUrl: https://github.com/knative/docs/blob/master/docs/serving/samples/gitwebhook-go/README.md
 tagline: A simple webhook handler that demonstrates interacting with Github.
 tags:
   - 'go'
