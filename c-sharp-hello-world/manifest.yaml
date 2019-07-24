@@ -1,5 +1,5 @@
 name: C Sharp Hello World
-source_url: https://github.com/knative/docs/blob/master/docs/serving/samples/hello-world/helloworld-csharp/README.md
+homepage_url: https://github.com/knative/docs/blob/master/docs/serving/samples/hello-world/helloworld-csharp/README.md
 tagline: A simple web app written in C# using .NET Core 2.2
 tags:
   - 'c#'

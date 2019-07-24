@@ -1,5 +1,5 @@
 name: Knative Routing Example
-source_url: https://github.com/knative/docs/blob/master/docs/serving/samples/knative-routing-go/README.md
+homepage_url: https://github.com/knative/docs/blob/master/docs/serving/samples/knative-routing-go/README.md
 tagline: An example of mapping multiple Knative services to different paths under a single domain name using the Istio VirtualService concept.
 tags:
   - 'go'
