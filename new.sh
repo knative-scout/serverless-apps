@@ -201,7 +201,7 @@ if [[ "$?" != "0" ]]; then
 fi
 
 # Check out new branch
-if ! git checkout -b "$app_dir"; then
+if ! git checkout -b "$(basename $app_dir)"; then
     die "Failed to create new Git branch"
 fi
 
