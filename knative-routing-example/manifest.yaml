@@ -4,7 +4,6 @@ tagline: An example of mapping multiple Knative services to different paths unde
 tags:
   - 'go'
   - 'routing'
-  - 'knative-example'
 categories:
   - 'hello world'
 author:

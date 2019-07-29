@@ -3,8 +3,6 @@ homepageUrl: https://github.com/knative/docs/blob/master/docs/serving/samples/au
 tagline: A demonstration of the autoscaling capabilities of Knative.
 tags:
   - 'go'
-  - 'knative-example'
-  - 'autoscaling'
 categories:
   - 'hello world'
   - 'automation'
