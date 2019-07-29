@@ -200,6 +200,11 @@ if [[ "$?" != "0" ]]; then
     die "Failed to create new app \"$app_dir/manifest.yaml\" file"
 fi
 
+# Check out new branch
+if ! git checkout -b "$app_dir"; then
+    die "Failed to create new Git branch"
+fi
+
 # Inform user of next steps
 bold "Almost done!"
 cat <<EOF
