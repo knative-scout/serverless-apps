@@ -1,0 +1,11 @@
+name: Twitter-Event-Source
+homepageUrl: https://github.com/PratikMahajan/Twitter-Knative-Serverless-App-Source
+tagline: Twitter event source implementation for Knative Eventing using ContainerSource on kubernetes
+tags:
+  - 'Eventing'
+  - 'Twitter'
+categories:
+  - 'automation'
+author:
+  name: Pratik Mahajan
+  email: p@phy.cx
