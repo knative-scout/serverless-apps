@@ -3,7 +3,6 @@ homepageUrl: https://github.com/knative/docs/blob/master/docs/serving/samples/he
 tagline: A simple web app written in C# using .NET Core 2.2
 tags:
   - 'c#'
-  - 'knative-example'
 categories:
   - 'hello world'
 author:

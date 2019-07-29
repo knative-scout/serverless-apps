@@ -2,10 +2,9 @@ name: Serverless Example Go
 homepageUrl: https://github.com/kscout/serverless-example-go
 tagline: Sample  Go serverless application
 tags:
-  - golang
-  - hello-world
+  - 'go'
 categories:
-  - hello world
+  - 'hello world'
 author:
   name: Vaishnavi Hire
   email: vhire@redhat.com
