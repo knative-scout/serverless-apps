@@ -4,7 +4,7 @@ tagline: A demonstration of the autoscaling capabilities of Knative.
 tags:
   - 'go'
   - 'knative-example'
-  - 'autoscale'
+  - 'autoscaling'
 categories:
   - 'hello world'
   - 'automation'
