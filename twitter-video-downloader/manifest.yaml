@@ -1,0 +1,13 @@
+name: Twitter-Video-Downloader
+homepageUrl: https://github.com/PratikMahajan/Twitter-Knative-Serverless-Video-Download
+tagline: Twitter Video Downloader build on Kubernetes using Knative Serving
+tags:
+  - 'Go'
+  - 'Serving'
+  - 'twitter'
+categories:
+  - 'automation'
+  - 'utilities'
+author:
+  name: Pratik Mahajan
+  email: p@phy.cx
