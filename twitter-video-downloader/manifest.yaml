@@ -1,4 +1,4 @@
-name: twitter-video-downloader
+name: Twitter-Video-Downloader
 homepageUrl: https://github.com/PratikMahajan/Twitter-Knative-Serverless-Video-Download
 tagline: Twitter Video Downloader build on Kubernetes using Knative Serving
 tags:
