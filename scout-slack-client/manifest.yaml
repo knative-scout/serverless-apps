@@ -1,0 +1,12 @@
+name: scout-slack-client
+homepageUrl: https://github.com/kscout/slack-chat-bot-api
+tagline: Slack client for chatbot api of Kscout Platform
+tags:
+  - 'slack'
+  - 'api'
+  - 'serving'
+categories:
+  - 'virtual assistant'
+author:
+  name: Vaishnavi Hire
+  email: hvaishnavi18@gmail.com
